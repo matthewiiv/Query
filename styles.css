@@ -1,0 +1,21 @@
+
+.mainSections {
+  height: 100%;
+}
+
+.Service {
+  text-align: center;
+  background-color: #BCC9BF;
+  height: 20vh;
+}
+
+.mainOptions {
+  text-align: center;
+  background-color: #C0C7B9;
+  height:100vh;
+}
+
+.footer {
+  text-align: center;
+  background-color: #4F777F;
+}
